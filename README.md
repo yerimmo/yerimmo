@@ -23,6 +23,7 @@ That experience showed me how powerful data becomes when paired with clear commu
 - **+39% international sales** | Built targeted international VIP programs from overseas spend and visit trends
 - **2.4M+ invoice records** | Built Python pipelines to clean and validate ERP data for an Emory Healthcare project
 
-- ## 📫 Let's Connect
+## 📫 Let's Connect
+  
 
 [LinkedIn](https://www.linkedin.com/in/yerimmo/) | [Email](mailto:yerimmo.atl@gmail.com)
